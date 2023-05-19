@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Homework4</string>
+    <string name="model">Модель</string>
+    <string name="number">Номер</string>
+    <string name="age">Год выпуска</string>
+    <string name="add">Добавить</string>
+    <string name="next">Продолжить</string>
+    <string name="insert_success">Запись успешно создана</string>
+    <string name="insert_error">Ошибка при добавлении</string>
+    <string name="incorrect_value">Значение некорректно</string>
+    <string name="INFO">Работу выполнил Кузьмин Сергей РИБО-01-21 Вариант-1</string>
+</resources>
